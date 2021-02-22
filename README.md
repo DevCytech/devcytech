@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Bootstrap, and Express**
 
-- 👯 I’m looking to collaborate on [Music & Audio's Discord Bot](https://discord.gg/audio)
+- 👯 I’m looking to collaborate on Websites and or Bots at the moment
 
 - 👨‍💻 All of my projects are available at [https://devcytech.com (work in progress)](https://devcytech.com (work in progress))
 
