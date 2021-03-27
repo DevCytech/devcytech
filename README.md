@@ -1,6 +1,6 @@
 # Hello 👋
 
-## My name is John or Cy as I am normally called. I am a Junior self taught developer from the United States
+### My name is John or Cy as I am normally called. I am a Junior self taught developer from the United States
 
 ## More Information About me
 
