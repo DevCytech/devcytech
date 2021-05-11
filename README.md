@@ -19,7 +19,7 @@ Check out my portfolio [here](https://devcytech.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcytech&label=Profile%20views&color=0e75b6&style=flat" alt="devcytech" /> </p>
 
 ## GitHub Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devcytech" alt="devcytech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devcytech&theme=darkhub" alt="devcytech" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devcytech&show_icons=true&locale=en" alt="devcytech" /></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcytech&label=Profile%20views&color=0e75b6&style=flat" alt="devcytech" /> </p>-->
