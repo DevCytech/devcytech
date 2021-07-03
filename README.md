@@ -1,19 +1,21 @@
 # Hello 👋
 
-### My name is John or Cy as I am normally called. I am a Junior self taught developer from the United States
-
-## More Information About me
-
 ```js
 const cytech = {
-  code: [ JavaScript, TypeScript, HTML, CSS ],
-  tools: [ Node, React, Next.js, discord.js ],
+  code: [ JavaScript, HTML, CSS, SCSS ],
+  tools: [ Node, Next.js, discord.js ],
 }
 ```
 
-## Links
-There are many...
-Check out my portfolio [here](https://devcytech.com) 
+## About Me
+Hello! My name is Cy, I am a self taught developer from the 🇺🇸.
+
+I mainly program [Discord](https://discord.com) Bots but I also do many web development projects and looking to do much more.
+
+Some of my work can be found at my website https://devcytech.com
+
+Or if you want to check out my most recent project check out https://disconnectbot.com
+
 
 <p align="left"> <a href="https://twitter.com/devcytech" target="blank"><img src="https://img.shields.io/twitter/follow/devcytech?logo=twitter&style=for-the-badge" alt="devcytech" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcytech&label=Profile%20views&color=0e75b6&style=flat" alt="devcytech" /> </p>
