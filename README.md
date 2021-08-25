@@ -1,12 +1,30 @@
-# Hello 👋
+<h1 align="center">Ello! I am Cytech</h1>
+<h3 align="center">I am a Discord bot and Website developer. Loving what I do and learning day by day!</h3>
+<p align="center"> <a href="https://twitter.com/devcytech" target="blank"><img src="https://img.shields.io/twitter/follow/devcytech?logo=twitter&style=for-the-badge" alt="devcytech" /></a> </p>
+
+- 🤖 I am currently working on [Disconnect](https://disconnectbot.com) a all-for-one Discord bot.
+
+- ✨ I am currently focused on learning **TypeScript** and more expanding my knowledge in **Next.js** and **SCSS**
+
+- 📚 I am well experience in **JavaScript**, **HTML/CSS**, **SCSS**, and **Discord.js** 
+
+- 🖥️ Check out other projects I have worked on, on [My Website](https://devcytech.com)
+
+- 👯 Feel free to [contact me](https://devcytech.com/contact) for any collaborations or any bussiness inquieres. 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devcytech&label=Profile%20views&color=0e75b6&style=flat" alt="devcytech" /> </p>
+
+<!-- OLD ATTEMPTS -->
+
+<!-- # Hello 👋
 
 ```js
 const cytech = {
   code: [ JavaScript, HTML, CSS, SCSS ],
   tools: [ Node, Next.js, discord.js ],
 }
-```
-
+``` -->
+<!-- 
 ## About Me
 Hello! My name is Cy, I am a self taught developer from the 🇺🇸.
 
@@ -23,7 +41,7 @@ Or if you want to check out my most recent project check out https://disconnectb
 ## GitHub Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devcytech&no-frame=true&theme=darkhub" alt="devcytech" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devcytech&show_icons=true&locale=en" alt="devcytech" /></p>
-
+ -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcytech&label=Profile%20views&color=0e75b6&style=flat" alt="devcytech" /> </p>-->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devcytech" alt="devcytech" /></a> </p>-->
