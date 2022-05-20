@@ -1,12 +1,12 @@
 <h1 align="center">Ello! I am Cytech</h1>
-<h3 align="center">I am a Discord bot and Website developer. Loving what I do and learning day by day!</h3>
+<h3 align="center">I am a former Discord bot and Website developer. Loving what I do and learning day by day!</h3>
 <p align="center"> <a href="https://twitter.com/devcytech" target="blank"><img src="https://img.shields.io/twitter/follow/devcytech?logo=twitter&style=for-the-badge" alt="devcytech" /></a> </p>
 
-- 🤖 I am currently working on [Disconnect](https://disconnectbot.com) a all-for-one Discord bot.
+- 🤖 I am was working on [Disconnect](https://disconnectbot.com) a all-for-one Discord bot but has now been Discontinued.
 
-- ✨ I am currently focused on learning **TypeScript** and more expanding my knowledge in **Next.js** and **SCSS**
+- ✨ I am currently focused on learning **Electron** and while expanding my knowledge in **Next.js** and **SCSS**
 
-- 📚 I am well experience in **JavaScript**, **HTML/CSS**, **SCSS**, and **Discord.js** 
+- 📚 I am well experience in **TypeScript**, **Next.js**, **JavaScript**, **HTML/CSS**, **SCSS**, and **Discord.js** 
 
 - 🖥️ Check out other projects I have worked on, on [My Website](https://devcytech.com)
 
